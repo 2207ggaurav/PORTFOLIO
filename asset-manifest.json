@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5c9dab8d.css",
+    "main.js": "/Portfolio/static/js/main.9456eb06.js",
+    "static/media/home.jpg": "/Portfolio/static/media/home.465f3612905ae05a9e03.jpg",
+    "static/media/project-1.jpeg": "/Portfolio/static/media/project-1.be1d9d57c391b26a329d.jpeg",
+    "static/media/project-3.jpeg": "/Portfolio/static/media/project-3.075e793cb5dd2697bbc0.jpeg",
+    "static/media/project-5.jpg": "/Portfolio/static/media/project-5.f6885d316197f5d72029.jpg",
+    "static/media/project-6.jpg": "/Portfolio/static/media/project-6.f4df07761e8241c83a94.jpg",
+    "static/media/project-4.jpeg": "/Portfolio/static/media/project-4.5bc2687cdb426a57c84c.jpeg",
+    "static/media/project-2.jpg": "/Portfolio/static/media/project-2.12dd9aa57324c89ad179.jpg",
+    "static/media/Gaurav-Cv.pdf": "/Portfolio/static/media/Gaurav-Cv.898be61ba6da19bf4295.pdf",
+    "static/media/close.svg": "/Portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.5c9dab8d.css.map": "/Portfolio/static/css/main.5c9dab8d.css.map",
+    "main.9456eb06.js.map": "/Portfolio/static/js/main.9456eb06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c9dab8d.css",
+    "static/js/main.9456eb06.js"
+  ]
+}
